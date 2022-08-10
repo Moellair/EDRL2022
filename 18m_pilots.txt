@@ -1,1 +1,28 @@
 ID,CALL,CN,TYPE,NAME
+D00FAF,D-KIVZ,4Z,Ventus3,Stefan Lichtmannecker
+3E766B,D-KKAT,AT,Ventus3,Tobias Meiler
+D01012,OE-9517,B,JS3,Uwe Höfinghoff
+DDF089,D-KJBG,BG,Ventus3,Bernd Gauger
+D0050F,,CT,JS3,Klaus Kalmbach
+3ECBDA,,F,Ventus2c,Frank Mischo
+DDC37E,,F6,LS6-18,Jonas Krautter
+DF08B7,,FM,Ventus C,Markus Schweizer
+3E6B87,,FUN,AS33,Dirk Windmüller
+3ED963,,HB,AS29,Bernd Krimmer
+D00572,,IYB,Vents3,Clemens Berger
+D01607,,K,AS33,Nils Koster
+DDB0CC,,LC,ASG29,Martin Bauer
+DDF0FE,,LG,JS3,Martin Schötz
+39644C,,LV,ASG29,Wolfgang Gmeiner
+3E730A,,M,AS33,Michael Streit
+D00736,,M9,JS3,Matthias Sturm
+D00FF5,,OM,JS3,Bernd Dolba
+3EF8B1,,RM,DG600,Reinhold Mallik
+3E7AC4,,RO,AS33,Michael Petzold
+,,RP2,LS8-18,Maximilian Goormann
+,,SR,ASG29,Rudolf Mathar
+,,T,JS3,Laurenz Theisinger
+,,TA2,ASG29,Hajo Machetanz
+,,TM,Discus2C,Falk Pätzold
+,,VY,JS3,Andreas Kühl
+,,WJ,JS1 18m,Sven Killinger
