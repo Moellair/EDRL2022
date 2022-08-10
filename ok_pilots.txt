@@ -1,1 +1,14 @@
 ID,CALL,CN,TYPE,NAME
+3ECBFF,D-KSFF,63,ASG32,Frank Fröhlich
+D015AE,461,D-8220,ASW22BL,Steffen Schmidt
+3ED91F,EL,D-KXEL,EB29R,Enrique Levin
+,EP,,Nimbus4,Nils Heck
+DD92FA,FE,D-KLAD,Nimbus4M,Steffen Weniger
+DF2237,FT,D-KSFT,ASH31,Stephan Bosch
+DDF0DD,JS3,D-KGLI,JS3,Carsten Portmann
+D0013C,LM,D-KLMD,ASH25E,Olaf Merbt
+DDAAF5,N41,D-KBAG,Nimubs3T,Hans Otto Edelhoff
+3ED229,NX,D-KUNX,AB28,Ulrich Knauss
+D00E84,SP,D-KOSP,Arcus M,Patrick Benoist
+3EC251,VX,D-KONX,ASW22BLE,Norbert Kalisch
+DD9A0F,WR,D-KSWR,ASW22BLE,Reinhard Spath
