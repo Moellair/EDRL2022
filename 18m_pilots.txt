@@ -1,28 +1,28 @@
 ID,CALL,CN,TYPE,NAME
-05D00FAF,D-KIVZ,4Z,Ventus3,Stefan Lichtmannecker
+006D00FAF,D-KIVZ,4Z,Ventus3,Stefan Lichtmannecker
 053E766B,D-KKAT,AT,Ventus3,Tobias Meiler
-05D01012,OE-9517,B,JS3,Uwe Höfinghoff
-05DDF089,D-KJBG,BG,Ventus3,Bernd Gauger
-05D0050F,D-KCCT,CT,JS3,Klaus Kalmbach
+06D01012,OE-9517,B,JS3,Uwe Höfinghoff
+06DDF089,D-KJBG,BG,Ventus3,Bernd Gauger
+06D0050F,D-KCCT,CT,JS3,Klaus Kalmbach
 053ECBDA,,F,Ventus2c,Frank Mischo
-05DDC37E,D-6366,F6,LS6-18,Jonas Krautter
-05DF08B7,D-9103,FM,Ventus C,Markus Schweizer
+06DDC37E,D-6366,F6,LS6-18,Jonas Krautter
+06DF08B7,D-9103,FM,Ventus C,Markus Schweizer
 053E6B87,D-KFXN,FUN,AS33,Dirk Windmüller
 053ED963,D-KXHB,HB,AS29,Bernd Krimmer
-05D00572,D-KDSF,IYB,Vents3,Clemens Berger
-05D01607,D-KKNK,K,AS33,Nils Koster
-05DDB0CC,D-KKLC,LC,ASG29,Martin Bauer
-05DDF0FE,D-KHLG,LG,JS3,Martin Schötz
+06D00572,D-KDSF,IYB,Vents3,Clemens Berger
+06D01607,D-KKNK,K,AS33,Nils Koster
+06DDB0CC,D-KKLC,LC,ASG29,Martin Bauer
+06DDF0FE,D-KHLG,LG,JS3,Martin Schötz
 0539644C,D-7429,LV,ASG29,Wolfgang Gmeiner
 053E730A,D-KITM,M,AS33,Michael Streit
-05D00736,D-KBFE,M9,JS3,Matthias Sturm
-05D00FF5,D-KIBD,OM,JS3,Bernd Dolba
+06D00736,D-KBFE,M9,JS3,Matthias Sturm
+06D00FF5,D-KIBD,OM,JS3,Bernd Dolba
 053EF8B1,D-6170,RM,DG600,Reinhold Mallik
 053E7AC4,D-KLRO,RO,AS33,Michael Petzold
-05DF100A,D-4156,RP2,LS8-18,Maximilian Goormann
+06DF100A,D-4156,RP2,LS8-18,Maximilian Goormann
 053EC56F,D-KPSP,SR,ASG29,Rudolf Mathar
-05DDF16B,,T,JS3,Laurenz Theisinger
-05DF0387,D-KCSS,TA2,ASG29,Hajo Machetanz
-05DF207A,D-8445,TM,Discus2C,Falk Pätzold
-05D0048E,D-KUVY,VY,JS3,Andreas Kühl
-05DDED65,D-KJSC,WJ,JS1 18m,Sven Killinger
+06DDF16B,,T,JS3,Laurenz Theisinger
+06DF0387,D-KCSS,TA2,ASG29,Hajo Machetanz
+06DF207A,D-8445,TM,Discus2C,Falk Pätzold
+06D0048E,D-KUVY,VY,JS3,Andreas Kühl
+06DDED65,D-KJSC,WJ,JS1 18m,Sven Killinger
