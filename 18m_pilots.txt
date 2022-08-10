@@ -1,5 +1,5 @@
 ID,CALL,CN,TYPE,NAME
-006D00FAF,D-KIVZ,4Z,Ventus3,Stefan Lichtmannecker
+06D00FAF,D-KIVZ,4Z,Ventus3,Stefan Lichtmannecker
 053E766B,D-KKAT,AT,Ventus3,Tobias Meiler
 06D01012,OE-9517,B,JS3,Uwe Höfinghoff
 06DDF089,D-KJBG,BG,Ventus3,Bernd Gauger
