@@ -5,10 +5,10 @@ D015AE,D-8220,461,ASW22BL,Steffen Schmidt
 ,EP,,Nimbus4,Nils Heck
 DD92FA,D-KLAD,FE,Nimbus4M,Steffen Weniger
 DF2237,D-KSFT,FT,ASH31,Stephan Bosch
-DDF0DD,D-KGLI,JS3JS3,Carsten Portmann
+DDF0DD,D-KGLI,JS3,JS3,Carsten Portmann
 D0013C,D-KLMD,LM,ASH25E,Olaf Merbt
 DDAAF5,D-KBAG,N41,Nimubs3T,Hans Otto Edelhoff
-3ED229,D-KUNX,,NX,EB28,Ulrich Knauss
+3ED229,D-KUNX,NX,EB28,Ulrich Knauss
 D00E84,D-KOSP,SP,Arcus M,Patrick Benoist
 3EC251,D-KONX,VX,ASW22BLE,Norbert Kalisch
 DD9A0F,D-KSWR,WR,ASW22BLE,Reinhard Spath
