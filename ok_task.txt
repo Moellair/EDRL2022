@@ -1,25 +1,13 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="008 AP Weinbiet" id="0" comment="" altitude="486.0">
-      <Location longitude="8.1211167" latitude="49.3761167"/>
+    <Waypoint name="005 AP Hambacher Schloss" id="0" comment="" altitude="330.0">
+      <Location longitude="8.1183333" latitude="49.3247167"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="122 Sobernheim" id="0" comment="" altitude="247.0">
-      <Location longitude="7.6658333" latitude="49.7908333"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="076 KoblenzWinn" id="0" comment="" altitude="195.0">
-      <Location longitude="7.5283333" latitude="50.32555"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="Asslarer Huette" id="0" comment=" 129.975" altitude="232.0">
-      <Location longitude="8.4438889" latitude="50.5997222"/>
+    <Waypoint name="125 Tauberbischofsheim" id="0" comment="" altitude="282.0">
+      <Location longitude="9.6288833" latitude="49.64945"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
@@ -30,8 +18,20 @@
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="080 Lauda" id="0" comment="" altitude="192.0">
-      <Location longitude="9.7111167" latitude="49.56555"/>
+    <Waypoint name="020 BadNeustSaal" id="0" comment="" altitude="305.0">
+      <Location longitude="10.2266667" latitude="50.30555"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="019 BadMergenth" id="0" comment="" altitude="310.0">
+      <Location longitude="9.7772167" latitude="49.4922167"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="072 Kirchheimbolanden" id="0" comment="" altitude="269.0">
+      <Location longitude="8.0188833" latitude="49.66305"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
