@@ -1,39 +1,27 @@
-<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="005 AP Hambacher Schloss" id="0" comment="" altitude="330.0">
-      <Location longitude="8.1183333" latitude="49.3247167"/>
+    <Waypoint name="007 AP Musenhof" id="0" comment="" altitude="120.0">
+      <Location longitude="8.1875" latitude="49.40805"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="125 Tauberbischofsheim" id="0" comment="" altitude="282.0">
-      <Location longitude="9.6288833" latitude="49.64945"/>
+  <Point type="Area">
+    <Waypoint name="017 BadKissingen" id="0" comment="" altitude="198.0">
+      <Location longitude="10.0688833" latitude="50.21055"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="45000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="038 Eichenzell" id="0" comment="" altitude="310.0">
-      <Location longitude="9.7222167" latitude="50.48305"/>
+  <Point type="Area">
+    <Waypoint name="063 Hermutshaus" id="0" comment="" altitude="409.0">
+      <Location longitude="9.74445" latitude="49.31445"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="40000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="020 BadNeustSaal" id="0" comment="" altitude="305.0">
-      <Location longitude="10.2266667" latitude="50.30555"/>
+  <Point type="Area">
+    <Waypoint name="037 Donnersberg" id="0" comment="" altitude="688.0">
+      <Location longitude="7.9236167" latitude="49.62445"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="019 BadMergenth" id="0" comment="" altitude="310.0">
-      <Location longitude="9.7772167" latitude="49.4922167"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="072 Kirchheimbolanden" id="0" comment="" altitude="269.0">
-      <Location longitude="8.0188833" latitude="49.66305"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="20000.0"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="140 Lachen-Speyerdorf" id="0" comment="" altitude="118.0">
