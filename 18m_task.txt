@@ -1,32 +1,33 @@
-<Task type="AAT" task_scored="1" aat_min_time="210" start_max_speed="170" start_max_height="1800" start_max_height_ref="MSL" finish_min_height="320" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
     <Waypoint name="005 AP Hambacher Schloss" id="0" comment="" altitude="330.0">
       <Location longitude="8.1183333" latitude="49.3247167"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
-  <Point type="Area">
-    <Waypoint name="017 BadKissingen" id="0" comment="" altitude="198.0">
-      <Location longitude="10.0688833" latitude="50.21055"/>
+  <Point type="Turn">
+    <Waypoint name="046 Geiselwind" id="0" comment="" altitude="347.0">
+      <Location longitude="10.4777833" latitude="49.77055"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="45000.0"/>
+    <ObservationZone type="Keyhole"/>
   </Point>
-  <Point type="Area">
-    <Waypoint name="063 Hermutshaus" id="0" comment="" altitude="409.0">
-      <Location longitude="9.74445" latitude="49.31445"/>
+  <Point type="Turn">
+    <Waypoint name="026 Bischofsberg" id="0" comment="" altitude="330.0">
+      <Location longitude="10.2833333" latitude="50.4322167"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="40000.0"/>
+    <ObservationZone type="Keyhole"/>
   </Point>
-  <Point type="Area">
-    <Waypoint name="037 Donnersberg" id="0" comment="" altitude="688.0">
-      <Location longitude="7.9236167" latitude="49.62445"/>
+  <Point type="Turn">
+    <Waypoint name="135 Wertheim" id="0" comment="" altitude="147.0">
+      <Location longitude="9.57805" latitude="49.7836167"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="20000.0"/>
+    <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="140 Lachen-Speyerdorf" id="0" comment="" altitude="118.0">
       <Location longitude="8.2116667" latitude="49.3302833"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="3000.0"/>
+    <ObservationZone type="Line" length="1000.0"/>
   </Point>
 </Task>
+
