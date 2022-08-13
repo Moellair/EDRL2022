@@ -27,6 +27,6 @@
     <Waypoint name="140 Lachen-Speyerdorf" id="0" comment="" altitude="118.0">
       <Location longitude="8.2116667" latitude="49.3302833"/>
     </Waypoint>
-    <ObservationZone type="Line" length="1000.0"/>
+    <ObservationZone type="Cylinder" radius="3000.0"/>
   </Point>
 </Task>
