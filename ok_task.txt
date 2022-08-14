@@ -1,27 +1,21 @@
-<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="AAT" task_scored="1" aat_min_time="180" start_max_speed="170" start_max_height="1800" start_max_height_ref="MSL" finish_min_height="320" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="008 AP Weinbiet" id="0" comment="" altitude="486.0">
-      <Location longitude="8.1211167" latitude="49.3761167"/>
+    <Waypoint name="002 AP Freefall Tower" id="0" comment="" altitude="112.0">
+      <Location longitude="8.2983333" latitude="49.3183333"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="081 Leuzendorf" id="0" comment="" altitude="461.0">
-      <Location longitude="10.0752833" latitude="49.35195"/>
+  <Point type="Area">
+    <Waypoint name="017 BadKissingen" id="0" comment="" altitude="198.0">
+      <Location longitude="10.0688833" latitude="50.21055"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="50000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="018 BadKoenigsh" id="0" comment="" altitude="313.0">
-      <Location longitude="10.4222167" latitude="50.2875"/>
+  <Point type="Area">
+    <Waypoint name="043 Feuchtwangen BAB X" id="0" comment="" altitude="470.0">
+      <Location longitude="10.2338833" latitude="49.20305"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="125 Tauberbischofsheim" id="0" comment="" altitude="282.0">
-      <Location longitude="9.6288833" latitude="49.64945"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="40000.0"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="140 Lachen-Speyerdorf" id="0" comment="" altitude="118.0">
@@ -30,3 +24,4 @@
     <ObservationZone type="Cylinder" radius="3000.0"/>
   </Point>
 </Task>
+
