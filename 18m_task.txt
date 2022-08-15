@@ -17,12 +17,6 @@
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="140 Lachen-Speyerdorf" id="0" comment="" altitude="118.0">
-      <Location longitude="8.2116667" latitude="49.3302833"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
   <Point type="Finish">
     <Waypoint name="140 Lachen-Speyerdorf" id="0" comment="" altitude="118.0">
       <Location longitude="8.2116667" latitude="49.3302833"/>
