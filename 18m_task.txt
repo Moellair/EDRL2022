@@ -6,14 +6,26 @@
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="077 Kupferzell" id="0" comment="" altitude="349.0">
-      <Location longitude="9.68945" latitude="49.1997167"/>
+    <Waypoint name="088 Michelbach" id="0" comment="" altitude="372.0">
+      <Location longitude="9.7625" latitude="49.0697167"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="093 Mosbach-Lohrbach" id="0" comment="" altitude="504.0">
-      <Location longitude="9.1238833" latitude="49.3988833"/>
+    <Waypoint name="049 Gerstetten" id="0" comment="" altitude="576.0">
+      <Location longitude="10.0672167" latitude="48.62445"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="124 St.Georgen" id="0" comment="" altitude="811.0">
+      <Location longitude="8.3463833" latitude="48.1261167"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="115 Ruine Flakbunker" id="0" comment="" altitude="203.0">
+      <Location longitude="8.5002833" latitude="48.9961167"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
@@ -21,6 +33,6 @@
     <Waypoint name="140 Lachen-Speyerdorf" id="0" comment="" altitude="118.0">
       <Location longitude="8.2116667" latitude="49.3302833"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="6000.0"/>
+    <ObservationZone type="Line" length="1000.0"/>
   </Point>
 </Task>
