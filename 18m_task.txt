@@ -1,33 +1,27 @@
-<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="AAT" task_scored="1" aat_min_time="120" start_max_speed="170" start_max_height="1400" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="002 AP Freefall Tower" id="0" comment="" altitude="112.0">
-      <Location longitude="8.2983333" latitude="49.3183333"/>
+    <Waypoint name="005 AP Hambacher Schloss" id="0" comment="" altitude="330.0">
+      <Location longitude="8.1183333" latitude="49.3247167"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="088 Michelbach" id="0" comment="" altitude="372.0">
-      <Location longitude="9.7625" latitude="49.0697167"/>
+  <Point type="Area">
+    <Waypoint name="037 Donnersberg" id="0" comment="" altitude="688.0">
+      <Location longitude="7.9236167" latitude="49.62445"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="15000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="049 Gerstetten" id="0" comment="" altitude="576.0">
-      <Location longitude="10.0672167" latitude="48.62445"/>
+  <Point type="Area">
+    <Waypoint name="086 Marpingen" id="0" comment="" altitude="360.0">
+      <Location longitude="7.0391667" latitude="49.45305"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="20000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="124 St.Georgen" id="0" comment="" altitude="811.0">
-      <Location longitude="8.3463833" latitude="48.1261167"/>
+  <Point type="Area">
+    <Waypoint name="003 AP Germersheim" id="0" comment="" altitude="98.0">
+      <Location longitude="8.3663833" latitude="49.2502833"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="115 Ruine Flakbunker" id="0" comment="" altitude="203.0">
-      <Location longitude="8.5002833" latitude="48.9961167"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="8000.0"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="140 Lachen-Speyerdorf" id="0" comment="" altitude="118.0">
