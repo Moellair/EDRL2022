@@ -1,7 +1,7 @@
-<Task type="AAT" task_scored="0" aat_min_time="120" start_max_speed="170" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="AAT" task_scored="1" aat_min_time="120" start_max_speed="170" start_max_height="1400" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="005 AP Hambacher Schloss" id="0" comment="" altitude="330.0">
-      <Location longitude="8.1183333" latitude="49.3247167"/>
+    <Waypoint name="007 AP Musenhof" id="0" comment="" altitude="120.0">
+      <Location longitude="8.1875" latitude="49.40805"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
